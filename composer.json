@@ -1,0 +1,23 @@
+{
+  "name": "vincekruger/wp-term-taxonomy-meta",
+  "description": "WordPress Term Taxonomy Meta",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress",
+    "terms",
+    "taxonomies",
+    "meta"
+  ],
+  "homepage": "https://github.com/vincekruger/wp-term-taxonomy-meta",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vince Kruger",
+      "email": "vincekruger@gmail.com",
+      "homepage": "https://github.com/vincekruger/wp-term-taxonomy-meta"
+    }
+  ],
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
+}
